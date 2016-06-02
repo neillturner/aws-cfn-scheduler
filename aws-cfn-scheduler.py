@@ -9,7 +9,6 @@ Usage:
 Options:
   -c --config CONFIG    Use alternate configuration file [default: /etc/aws-cfn-scheduler.cfg].
   -h --help             Show this screen.
-  --force               Force create 'scheduler' tag.
   --version             Show version.
 
 """
